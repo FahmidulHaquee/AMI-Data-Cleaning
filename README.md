@@ -124,8 +124,24 @@ Water data science is not as far along as many other industries, and this is in 
 The water industry is ripe with data questions and is a prime opportunity to use what has been learned in other data arenas and apply it to a new set of problems. Furthermore, lessons learnt from the water industry can possibly be applied in other sectors, where perhaps organisations are reluctant to engage in Industry 4.0 (automation of manufacturing using smart tech). 
 
 ## Data Exploration/Visualisation
+###
 
 ## Data Cleaning
+### Import and Load Data
+
+### Unit Conversion
+
+### Create Timestamps
+
+### Negative Values
+
+### Anomalous Values
+
+### Missing Values
+
+### Interpolate Data
+
+### Export Data
 
 ### Linear Interpolation
 
@@ -135,7 +151,35 @@ The water industry is ripe with data questions and is a prime opportunity to use
 
 ### Short-term Goals
 
+The most immedidate objective is building a modular, end-to-end data cleaning pipeline. A pipeline refers to a chaining various functions together as a means of producing a model (output) based on the data provided (input). The various operations which comprise the pipeline are modular, which means they can be replaced by other functions. 
+
 ### Long-term Goals
+
+Develop Data Science Techniques 
+
+- Developing data analysis methods and techniques
+  - For AMI datasets
+  - As well as AMR datasets
+- Building models from data: 
+  - Customer segmentation
+  - Indoor/outdoor split
+  - Improve CII benchmarking 
+- Use data from AMI together with external sources for data enrichment
+  - Making AMI and AMR datasets compatible 
+
+Customer Segmentation:
+
+This involves breaking down residential, commercial and industrial consumers in smaller, sub-groups. For example, residential customers can be further categorised based on the size of the property or number of occupants to give a more specific, accurate consumption model, enabling the district to plan ahead better.  
+
+Indoor/Outdoor split:
+
+This involves identifying when water is being within the property or outside the property. This is important to water districts so that they can identify how much water is being used by appliances such as washing machines, showers and how much water is being consumed to water the garden or front yard. Making this distinction enables water districts to make better planning decisions. 
+
+Improve CII benchmarking:
+
+Benchmarking involves determining how much water is being consumed by a particular type of customer, namely commercial users, industrial users, and institutional users. A better understanding of their consumption patterns will, once again, enable the water district to build a better demand model and plan ahead better.
+
+Hopefully, one can see how machine learning techniques can be applied in each of the following challenges. Each task involves identifying patterns in data and creating groups for water users with similar consumption behaviour. Machine learning involves using a recursive algorithm to categorise data and compare test and train data in each iteration, enabling the algorithm to improve itself. When huge amounts of data becomes coupled with numerous overlapping factors, it can be difficult for the user to visually detect the patterns in water consumption. Therefore, the fellows will look to apply machine learning techniques to the aforementioned data challenges. 
 
 ## License
 
