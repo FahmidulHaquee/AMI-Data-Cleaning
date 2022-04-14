@@ -55,7 +55,7 @@ The data used in this analysis has been added to the repository. Please note tha
 
 ## Workbooks
 
-A number of workbooks have been added to this repository. 
+Two workbooks have been added to this repository. The first workbook contains the data exploration exercise which searches for trends in the data, and details how consumption data is corrupted across the dataset. The second workbook contains the data cleaning exercise wherein cleaning functions are applied to the dataset and the outputs are visualised. 
 
 ## Introduction
 
@@ -192,4 +192,3 @@ Thanks to [Russ](https://www.linkedin.com/in/russhp/) for being my mentor on thi
 ## Contact
 
 Please reach out to me on [LinkedIn](https://www.linkedin.com/in/fahmidul-haque-b7a96b123/) for any questions regarding this repository. 
-
