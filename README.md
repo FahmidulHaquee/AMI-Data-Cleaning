@@ -99,7 +99,7 @@ On the production side, retailers, wholesalers, and other water organizations re
 - Can this process be improved? 
 - Can it be integrated with an end use model for an “all-in-one” model?
 
-Furthermore, new infrastructure in the form of Advance Metering is being installed in several districts giving access to very granular water data (up to readings every 15 mins) at the end use. This poses 
+Furthermore, new infrastructure in the form of Advance Metering is being installed in several districts giving access to very granular water data (up to readings every 15 mins) at the end use. This poses the following question:
 
 - How can AMI data be best used? 
 
@@ -121,7 +121,6 @@ Water data science is not as far along as many other industries, and this is in 
 
 The water industry is ripe with data questions and is a prime opportunity to use what has been learned in other data arenas and apply it to a new set of problems. Furthermore, lessons learnt from the water industry can possibly be applied in other sectors, where perhaps organisations are reluctant to engage in Industry 4.0 (automation of manufacturing using smart tech). 
 
-
 ## Data Exploration/Visualisation
 
 ## Data Cleaning
@@ -138,13 +137,13 @@ The water industry is ripe with data questions and is a prime opportunity to use
 
 ## License
 
-The license for this repository can be found [here](#LICENSE)
+The license for this repository can be found [here](#LICENSE.md)
 
 ## Acknowledgements 
 
-Thanks to [Russ](https://www.linkedin.com/in/russhp/) for being my mentor on this project. 
+Thanks to [Russ](https://www.linkedin.com/in/russhp/) for being my mentor on this project and teaching me the fundamentals of programming. 
 
 ## Contact
 
-Please reach out to me on [LinkedIn](https://www.linkedin.com/in/fahmidul-haque-b7a96b123/) for any questions regarding this 
+Please reach out to me on [LinkedIn](https://www.linkedin.com/in/fahmidul-haque-b7a96b123/) for any questions regarding this repository. 
 
