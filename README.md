@@ -2,15 +2,35 @@
 
 ## Abstract
 
+This repository contains all the workbooks and datasets related to the AMI data cleaning project undertaken during the R42 data science fellowship. 
+
 ## Table of Contents
 
-- [Technologies & Libraries](#technologies-&-libraries)
+- [Technologies and Libraries](#technologies-and-libraries)
 - [Data](#data)
 - [Workbooks](#workbooks)
 - [Setup](#setup)
 - [Introduction](#introduction)
-- [Data Exploration/Visualisation](#data-exploration/visualisation)
-
+  - [Background](#background)
+  - [Opportunity for Data Science](#opportunity-for-data-science)
+- [Data Exploration and Visualisation](#data-exploration-and-visualisation)
+  - [Hours in a day](#hours-in-a-day)
+  - [Months in a year](#months-in-a-day)
+  - [Days in a year](#days-in-a-day)
+- [Data Cleaning](#data-cleaning)
+  - [Import and Load Data](#import-and-load-data)
+  - [Unit Conversion](#unit-conversion)
+  - [Negative Values](#negative-values)
+  - [Missing Values](#missing-values)
+  - [Anomalous Values](#anomalous-values)
+  - [Interpolate Data](interpolate-data)
+  - [Export Data](#export-data)
+- [Next Steps](#next-steps)
+  - [Short-term Goals](#short-term-goals)
+  - [Long-term Goals](#long-term-goals)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ## Setup
 
@@ -46,6 +66,10 @@ A number of workbooks have been added to this repository.
 ### Fast Fourier Transform
 
 ## Next Steps
+
+### Short-term Goals
+
+### Long-term Goals
 
 ## License
 
