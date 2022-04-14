@@ -2,11 +2,9 @@
 
 ## Abstract
 
-This repository contains all the workbooks and datasets related to the AMI data cleaning project undertaken during the R42 data science fellowship. In developed countries, a transition in metering infrastructure is occurring across the utilties sector. Currently, the utilities sector is dominated by automatic meter reading technology exists 
+This repository contains all the workbooks and datasets related to the AMI data cleaning project undertaken during the R42 data science fellowship. In developed countries, a transition in metering infrastructure is occurring across the utilties sector. Currently, the utilities sector is dominated by [automatic meter reading](https://en.wikipedia.org/wiki/Automatic_meter_reading) technology, in which information regarding consumption levels of a resource is sent to the consumer. [Advanced metering infrastructure](https://en.wikipedia.org/wiki/Smart_meter#Advanced_Metering_Infrastructure) offers several advantages over the current technology, with the main advantages including two-way communication between the supplier and consumer, as well as more granular data, enabling utilities to track usages on a finer basis (hourly reads versus daily reads). 
 
-This project looks at how AMI data can be leveraged  
-
-For a dataset containing ~[] rows of consumption data, []% of the data was missing. 
+AMI has a lot of potential, but it also brings with it a number of challenges, with the main one being that the granular data can be messy. By messy, we mean that there are missing/NaN values where there should be actual data. This is an issue because before any predictive models can be built using machine learning, the data has to reflect consumer behaviour. Thus, this project seeks to address how this data can be cleaned to enable further analysis. 
 
 ## Table of Contents
 
