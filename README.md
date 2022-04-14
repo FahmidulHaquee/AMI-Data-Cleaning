@@ -2,7 +2,11 @@
 
 ## Abstract
 
-This repository contains all the workbooks and datasets related to the AMI data cleaning project undertaken during the R42 data science fellowship. 
+This repository contains all the workbooks and datasets related to the AMI data cleaning project undertaken during the R42 data science fellowship. In developed countries, a transition in metering infrastructure is occurring across the utilties sector. Currently, the utilities sector is dominated by automatic meter reading technology exists 
+
+This project looks at how AMI data can be leveraged  
+
+For a dataset containing ~[] rows of consumption data, []% of the data was missing. 
 
 ## Table of Contents
 
@@ -34,7 +38,7 @@ This repository contains all the workbooks and datasets related to the AMI data 
 
 ## Setup
 
-To get started, clone this repository to your local machine. Please note that the AMI dataset 
+To get started, clone this repository to your local machine. Ensure that you have Python installed on your device. Jupyter notebooks can be acquired as an extension on Visual Studio Code or from the Anaconda package.  Please note that the AMI dataset is fairly large (~20MB) and when cells are ran to process this data, the operations may take some time before an output is returned. 
 
 ## Technologies & Libraries 
 
@@ -49,7 +53,7 @@ To get started, clone this repository to your local machine. Please note that th
 
 ## Data
 
-The data used in this analysis has been added to the repository. Please note that it is a large file (>20MB) and contains over 200,000 rows of data relating to hourly consumption of water for a large number of consumers in the Californian state. 
+The data used in this analysis has been added to the repository. Please note that it is a large file (>20MB) and contains over 200,000 rows of data relating to hourly consumption of water for a large number of consumers in the Californian state. The data is anonymised, implying that there is no reference to personal information regarding the residents consuming the data. The dataset is made up of a number of columns, with the most pertinent being the columns 2, 3, 4 and 5 which relate to the meter no., datetime stamp, incremental consumption, and cumulative consumption. The meter no. is unique for each resident, and enables us to differentiate between different consumers. The datetime stamp indicates the time and date at which the incremental data was sent. The incremental consumption indicates relatively how much more water the user has consumed since data was lost sent from the meter.  
 
 ## Workbooks
 
